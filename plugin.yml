@@ -1,0 +1,5 @@
+name: WGTabCompleter
+version: 0.1
+author: mewin
+main: com.mewin.WGTC.WGTCPlugin
+depend: [ WorldGuard ]
